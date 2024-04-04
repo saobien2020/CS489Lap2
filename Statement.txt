@@ -1,0 +1,7 @@
+- The Office Manager Register Dentist
+- The Office Manager enrolls a new Patient.
+- A Patient can request appointments to see a dentist.
+- The Office Manager can confirm appointments, check if dentists have no more than 5 appointments a week, and check if the patient is not overdue for the payment.
+- Dentists should be able to sign in to the system and view a listing of all their Appointments
+- The system should provide information about each Surgery, including its name, location address, and telephone number
+- Patients should be able to sign in to the system view their appointments, can cancel the appointment.
